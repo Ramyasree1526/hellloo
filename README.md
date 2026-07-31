@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This is a simple, single-page personal portfolio website featuring a dark hero section, an about me section, skills showcase, **education details**, projects gallery, and a contact form.
+This is a simple, single-page personal portfolio website featuring a dark hero section, an about me section, skills showcase, education details, projects gallery, **an image gallery**, and a contact form.
 
 ## Technologies Used
 
@@ -13,6 +13,7 @@ This is a simple, single-page personal portfolio website featuring a dark hero s
 *   Smooth scrolling navigation
 *   Dark theme with a prominent hero section
 *   Showcase for skills, education, and projects
+*   **Image gallery to display visual work or interests**
 *   Functional (client-side) contact form
 
 ## How to Run Locally
